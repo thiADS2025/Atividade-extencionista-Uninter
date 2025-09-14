@@ -37,7 +37,7 @@ nav a {
 }
 
 main, li {
-    padding: 5px;
+    padding: 2px;
 }
 main a{
     text-decoration: none;
@@ -48,7 +48,7 @@ main a:hover{
 }
 
 section {
-    margin-bottom: 30px;
+    margin-bottom: 60px;
     background-color: white;
     padding: 15px;
     border-radius: 8px;
@@ -59,8 +59,10 @@ footer {
     background-color: #0077b6;
     color: white;
     text-align: center;
-    padding: 15px;
+    padding: ;
     position: fixed;
     width: 100%;
     bottom: 0;
+    
+    
 }
